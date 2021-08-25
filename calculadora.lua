@@ -1,6 +1,6 @@
 -- # Halzz # --
 
-local num1 = 70 -- Primeiro Número
+local num1 = 70 -- Primeiro Número.
 local num2 = 10 -- Segundo Número
 
 local function calc()
